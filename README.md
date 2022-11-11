@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iAli786
-- 👀 I’m interested in ... .
-- 🌱 I’m currently learning ... asp.net.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I am Ali Bin Shoaib
+- 👀 I’m interested in web, android, and desktop development. Also interested in data science.
+- 🌱 I’m currently learning Windows forms, python, android development.
+
+
 
 <!---
 iAli786/iAli786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
